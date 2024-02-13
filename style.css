@@ -2,6 +2,10 @@ body {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2023/01/05/Stunning-Paradise-Mountain-Landscape-Art-Graphics-56361389-1-580x387.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
   }
   * {
     margin: 0px;
@@ -34,7 +38,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #008ec7;
+    background: #d61bcd;
     top: 0;
     font-size: 35px;
     font-family: arial;
